@@ -1,3 +1,7 @@
+This GitHub repository is dedicated to the projects completed during the first week of the motioncut-internship.
+
+
+
 Pricing Page HTML:
 This repository contains the HTML code for a simple and stylish Pricing Page. The page is designed for showcasing subscription plans for a streaming service, highlighting the features and benefits of each plan. Users can easily compare the plans and make their selection.
 
