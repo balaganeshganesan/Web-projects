@@ -1,4 +1,4 @@
-This GitHub repository is dedicated to the projects completed during the first week of the motioncut-internship.
+This GitHub repository is dedicated to the project completed during the first week of the motioncut-internship.
 
 
 
